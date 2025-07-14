@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.head h1 {
+    margin: 10px;
+}
+
+.head .btns button {
+    padding: 15px;
+    background-color: #6A00FE;
+    color: #fff;
+    margin-left: 5px;
+    border: none;
+}
+
+.users_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100vw;
+    margin: 30px;
+}
+
+.users_container table {
+    width: 100vw;
+}
+
+.users_container table {
+ width: 100vw;
+}
+
+/* Add users css */
+
+body {
+    background-color: rgb(253, 247, 239);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+form label {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form input {
+    padding: 10px;
+}
+
+form .btns_form {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+form .btns_form button {
+    padding: 5px;
+    border: none;
+    width: 100%;
+    margin: 10px;
+}
+
+.btns_form .cancel {
+    background-color: #6A00FE;
+    color: #fff;
+    border-radius: 10px;
+}

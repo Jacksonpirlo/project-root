@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "b27a",
+      "name": "Caraota",
+      "description": "lolololol",
+      "capacity": "1233",
+      "date": "3322-02-12"
+    },
+    {
+      "id": "99c4",
+      "name": "Caraota",
+      "description": "432332ewrews",
+      "capacity": "34324243",
+      "date": "0004-03-04"
+    }
+  ],
+  "users": [
+    {
+      "id": "8ed0",
+      "email": "jf_cube@gmail.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "8ed0",
+      "email": "jacksonflorezp@gmail.com",
+      "password": "1234",
+      "role": "visitor"
+    }
+  ],
+  "reserve": [
+    {
+      "id": "8d38",
+      "name": "Koko",
+      "description": "rerrerwere",
+      "capacity": "1222",
+      "date": "3433-03-31"
+    },
+    {
+      "id": "e25a",
+      "name": "Caraota",
+      "description": "lolololol",
+      "capacity": "1233",
+      "date": "3322-02-12"
+    }
+  ]
+}
